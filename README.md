@@ -17,7 +17,7 @@
 ### 1.1
 ![image](https://user-images.githubusercontent.com/66015002/107472175-d1500d80-6bb1-11eb-8572-c8fc8062d461.png)
 
-> 유저 도메인에 authority라는 임의의 권한 값을 넣어준다.
+> 유저 도메인에 authority라는 임의의 권한 컬럼을 넣어준다.
 
 ### 1.2
 ![image](https://user-images.githubusercontent.com/66015002/107472307-107e5e80-6bb2-11eb-8e43-0f9cba60e06e.png)
